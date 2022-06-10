@@ -1,5 +1,5 @@
 title: Eunji Byun
-baseURL: https://example.com
+baseURL: https://ebyun.netlify.app
 theme: hugo-researcher
 disableKinds:
   - taxonomy
