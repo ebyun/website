@@ -3,18 +3,16 @@ title: Contact
 ---
 ### Email
 
+* eb@yonsei.ac.kr
 * bej0728@gmail.com
-* ebyun@uwaterloo.ca
 
 ---
 
 ### Address
 
-200 University Ave W
-
-Waterloo, ON N2L 3G1
-
-Canada
+Department of Earth Sysyem Sciences
+Yonsei University, 50 Yonsei-ro, Seodaemun-gu,
+Seoul 03722, Republic of Korea
 
 ---
 

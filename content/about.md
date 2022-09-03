@@ -4,7 +4,7 @@ title: About
 
 ### About Me
 
-I'm currently a postdoc researcher at the [Ecohydrology Research Group](https://uwaterloo.ca/ecohydrology/), University of Waterloo, Ontario, Canada. From September 2022, I'll be joining the Department of Earth System Sciences at the Yonsei University, Seoul, Korea, as a new faculty member. I'm looking for students and postdocs who would be interested in building a new lab together, in a highly supportive environment!
+In September 2022, I started an assistant professor position at the Department of Earth System Sciences in Yonsei University, Seoul, Korea. I'm hoping to continue my studies on wetlands for their wide ranges of functions in the Earth system and for obtaining paleoecological/paleoenvironmental proxy records from their sediments (research interests  below).
 
 ---
 
@@ -27,17 +27,10 @@ Year | Position | Institution
 
 ---
 
-### Research interests[^2]
-I have broad interests in wetlands, paleoecology, land carbon cycle, and data in earth sciences. Specifically for wetlands and paleoecology, (i) evaluate local wetlands for carbon sequestration, stormwater management, and water quality improvement in urban areas, (ii) obtain long sediment cores from natural wetlands to reconstruct Quaternary paleoecological and climatic changes (pollen, radiocarbon dating, and ancient DNA[^3]), and (iii) estimate historically drained wetlands to restore geological connections and functions in a watershed. 
+### Research interests
+I have broad interests in wetlands, paleoecology, land carbon cycle, and data in earth sciences. Specifically for wetlands and paleoecology, (i) evaluate local wetlands for carbon sequestration, stormwater management, and water quality improvement in urban areas, (ii) obtain long sediment cores from natural wetlands to reconstruct Quaternary paleoecological and climatic changes, and (iii) estimate historically drained wetlands to restore geological connections and functions in a watershed. 
 
 For the topics regarding the land carbon cycle and data, (i) understand the complex nature of earth sciences data as shown in many land carbon studies, (ii) improve current practices in presenting, sharing, and archiving data, and (iii) conduct new multidisciplinary analysis utilizing existing data for new insights.
 
 ---
-
-#### Other interests
-I like everything about coffee and baking :D I like to watch drama-genre tv shows and movies, and read contemporary novels.
-
-[^1]
-[^2]: These are all work-in-progress. Please contact me for any comments and suggestions. Any advice on new research questions and directions is always welcome.
-[^3]: This is my new area of interest in terms of methodology (no real experience so far); [sedaDNA](https://sedadna.github.io/) is an active international community/collaboration in this topic.
  
