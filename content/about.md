@@ -1,7 +1,7 @@
 ---
 title: About
 ---
-## **Please visit my lab website [WPL Yonsei](https://geoecology.netlify.app/).**
+## **Please visit my lab website [Geoecology Lab Yonsei](https://geoecology.netlify.app/).**
 
 ### About Me
 
