@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-## **Please visit my lab website [WPL Yonsei](https://wpl-yonsei.netlify.app/).**
+## **Please visit my lab website [WPL Yonsei](https://geoecology.netlify.app/).**
 
 ### Email
 

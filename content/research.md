@@ -2,7 +2,7 @@
 title: Research
 ---
 
-## **Please visit my lab website [WPL Yonsei](https://wpl-yonsei.netlify.app/).**
+## **Please visit my lab website [WPL Yonsei](https://geoecology.netlify.app/).**
 
 ### Publications
 - Check out the full list [**here**](https://scholar.google.co.uk/citations?user=dNk9otgAAAAJ&hl=en&oi=ao) in google scholar.
